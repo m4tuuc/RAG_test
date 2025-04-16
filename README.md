@@ -1,2 +1,4 @@
 # RAG_test
-Probando la implementacion de RAG para generar historias cortas de ciencia ficcion
+Probando la implementacion de RAG.
+
+Esto fue usado con un dataset que contiene historias de ciencia ficcion.
